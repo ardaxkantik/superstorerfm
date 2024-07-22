@@ -21,3 +21,25 @@ Elde edilen recency_score, frequency_score ve monetary_score'u birleştirerek he
 Müşteri Segmentasyonu
 
 Son olarak, belirlenen RFM skorlarına göre müşterileri segmente edin. Örneğin, müşterileri "Hibernating", "Can't lose", "Champions" gibi kategorilere ayırabilirsiniz.
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+
+The first step in performing RFM analysis on the Superstore dataset is to create the necessary dataset. This should include information such as purchase dates, expenditures, and shopping frequencies for each customer.
+
+Calculating RFM Metrics
+
+For the RFM analysis, calculate the recency, frequency, and monetary metrics. In this step, you will determine the recency, frequency, and monetary values for each customer.
+
+Creating RFM Scores
+
+Assign scores to customers for each metric to create RFM scores. These scores are typically between 1 and 5, with 5 representing the highest score and 1 representing the lowest.
+
+Combining RFM Scores
+
+Combine the recency_score, frequency_score, and monetary_score obtained to calculate the total RFM score for each customer.
+
+Customer Segmentation
+
+Finally, segment the customers based on the determined RFM scores. For example, you can categorize customers into segments such as "Hibernating," "Can't lose," "Champions," and so on.
